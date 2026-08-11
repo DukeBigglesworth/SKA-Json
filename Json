@@ -33,7 +33,7 @@
     },
     "i8agy72": {
       "rank": 3,
-      "canEditNametag": false,
+      "canEditNametag": true,
       "tag": "SKA OWNER",
       "glowColor": "255, 50, 100",
       "outlineColor": "255, 0, 50",
