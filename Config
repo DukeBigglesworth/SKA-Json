@@ -1,4 +1,4 @@
-{
+  {
   "users": {
     "i8agy": {
       "rank": 3,
@@ -204,12 +204,31 @@
       "rankColor": "160, 160, 160"
     }
   },
-    "ExampleAdmin": {
-      "rank": 2,
-      "tag": "SKA ADMIN",
-      "tagColor": "235, 50, 50",
-      "glowColor": "255, 80, 80",
-      "canEditNametag": true
+    "Vollify": {
+      "rank": 1,
+      "canEditNametag": true,
+      "tag": "Kira",
+      "tagColor": "245, 0, 0",
+      "glowColor": "0, 0, 0",
+      "outlineColor": "0, 0, 0",
+      "backgroundColor": "20, 20, 25",
+      "font": "GothamBold",
+      "logo": "rbxthumb://type=Asset&id=11322089619&w=150&h=150",
+      "animation": "None",
+      "bgAnimation": "Lava Flow",
+      "customUsername": "DadaKira",
+      "usernameColor": "255, 0, 0",
+      "usernameFont": "GothamBold",
+      "effect1": "Smoke",
+      "effect2": "Hologram Scan",
+      "effect1Color": "220, 40, 60",
+      "effect2Color": "255, 180, 50",
+      "bgImage": "rbxthumb://type=Asset&id=8313260144&w=420&h=420",
+      "tagTextSize": 19,
+      "usernameTextSize": 13,
+      "animColor1": "220, 40, 60",
+      "animColor2": "255, 180, 50",
+      "rankColor": "160, 160, 160"
     }
   },
   "banned": {
