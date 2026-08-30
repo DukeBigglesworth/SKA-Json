@@ -177,13 +177,33 @@
       "animColor2": "40, 82, 36",
       "rankColor": "255, 255, 255"
     },
-    "ExamplePaidUser": {
+    "toshiroloper": {
       "rank": 1,
-      "tag": "SKA PREMIUM",
-      "tagColor": "235, 180, 50",
-      "glowColor": "255, 200, 80",
-      "canEditNametag": true
-    },
+      "canEditNametag": true,
+      "tag": "DADDY TOSH",
+      "tagColor": "160, 160, 160",
+      "glowColor": "180, 180, 180",
+      "outlineColor": "160, 160, 160",
+      "backgroundColor": "20, 20, 25",
+      "font": "SourceSansLight",
+      "logo": "rbxthumb://type=Asset&id=6523858422&w=150&h=150",
+      "animation": "Scramble",
+      "bgAnimation": "None",
+      "customUsername": "Tosh",
+      "usernameColor": "109, 109, 229",
+      "usernameFont": "Roboto",
+      "effect1": "Energy Beam",
+      "effect2": "Energy Beam",
+      "effect1Color": "220, 40, 60",
+      "effect2Color": "255, 180, 50",
+      "bgImage": "rbxthumb://type=Asset&id=743546100&w=420&h=420",
+      "tagTextSize": 19,
+      "usernameTextSize": 14,
+      "animColor1": "220, 40, 60",
+      "animColor2": "255, 180, 50",
+      "rankColor": "160, 160, 160"
+    }
+  },
     "ExampleAdmin": {
       "rank": 2,
       "tag": "SKA ADMIN",
