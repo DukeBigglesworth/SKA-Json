@@ -1,4 +1,4 @@
-  {
+{
   "users": {
     "i8agy": {
       "rank": 3,
@@ -202,8 +202,7 @@
       "animColor1": "220, 40, 60",
       "animColor2": "255, 180, 50",
       "rankColor": "160, 160, 160"
-    }
-  },
+    },
     "Vollify": {
       "rank": 1,
       "canEditNametag": true,
