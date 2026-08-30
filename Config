@@ -177,6 +177,20 @@
       "animColor2": "40, 82, 36",
       "rankColor": "255, 255, 255"
     },
+    "ExamplePaidUser": {
+      "rank": 1,
+      "tag": "SKA PREMIUM",
+      "tagColor": "235, 180, 50",
+      "glowColor": "255, 200, 80",
+      "canEditNametag": true
+    },
+    "ExampleAdmin": {
+      "rank": 2,
+      "tag": "SKA ADMIN",
+      "tagColor": "235, 50, 50",
+      "glowColor": "255, 80, 80",
+      "canEditNametag": true
+    },
     "toshiroloper": {
       "rank": 1,
       "canEditNametag": true,
@@ -238,10 +252,33 @@
     }
   },
   "globalSettings": {
-    "freeUserCommands": ["bring_all", "esp", "fullbright"],
-    "paidUserCommands": ["bring_all", "bring_murderer", "esp", "fullbright", "fling", "blind", "kill"],
-    "adminCommands": ["bring_all", "bring_murderer", "esp", "fullbright", "fling", "blind", "kill", "crash"],
-    "ownerCommands": ["all"],
+    "freeUserCommands": [
+      "bring_all",
+      "esp",
+      "fullbright"
+    ],
+    "paidUserCommands": [
+      "bring_all",
+      "bring_murderer",
+      "esp",
+      "fullbright",
+      "fling",
+      "blind",
+      "kill"
+    ],
+    "adminCommands": [
+      "bring_all",
+      "bring_murderer",
+      "esp",
+      "fullbright",
+      "fling",
+      "blind",
+      "kill",
+      "crash"
+    ],
+    "ownerCommands": [
+      "all"
+    ],
     "maintenanceMode": false
   }
 }
