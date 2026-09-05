@@ -1,4 +1,4 @@
-{
+  {
   "users": {
     "i8agy": {
       "rank": 3,
@@ -184,12 +184,31 @@
       "glowColor": "255, 200, 80",
       "canEditNametag": true
     },
-    "ExampleAdmin": {
-      "rank": 2,
-      "tag": "SKA ADMIN",
-      "tagColor": "235, 50, 50",
-      "glowColor": "255, 80, 80",
-      "canEditNametag": true
+    "21ycz": {
+      "rank": 1,
+      "canEditNametag": true,
+      "tag": "✿ SAKURA",
+      "tagColor": "255, 150, 200",
+      "glowColor": "255, 180, 220",
+      "outlineColor": "255, 130, 180",
+      "backgroundColor": "255, 228, 235",
+      "font": "Fondamento",
+      "logo": "default",
+      "animation": "Scramble",
+      "bgAnimation": "None",
+      "customUsername": "xxjj",
+      "usernameColor": "255, 166, 242",
+      "usernameFont": "GothamBold",
+      "effect1": "Particles",
+      "effect2": "Smoke",
+      "effect1Color": "220, 40, 60",
+      "effect2Color": "255, 180, 50",
+      "bgImage": "",
+      "tagTextSize": 14,
+      "usernameTextSize": 7,
+      "animColor1": "216, 36, 168",
+      "animColor2": "120, 10, 95",
+      "rankColor": "255, 255, 255"
     },
     "toshiroloper": {
       "rank": 1,
